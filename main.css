@@ -57,9 +57,10 @@ footer > p > span {
 }
 
 .imagini_ingrediente {
-    padding-bottom: 100px;
+    padding: 0 40px 100px 40px;
     width: 100%;
-    margin: 0 auto;
+    text-align: center;
+    /* margin: 0 auto; */
 }
 
 .imagini_ingrediente > img {
@@ -78,20 +79,6 @@ footer > p > span {
 
 .imagini_ingrediente > h2 > a:hover {
     color: rgb(3, 128, 65);
-}
-
-.text_reteta {
-    width: 100%;
-    float: left;
-}
-
-.text_reteta > div {
-    float: left;
-    width: 60%;
-}
-
-.text_reteta > img {
-    float: right;
 }
 
 #menu {
@@ -131,7 +118,6 @@ footer > p > span {
     color: rgb(209, 134, 4);
 }
 
-
 #menu > div > p {
     color: rgb(255, 255, 255);
     font-family: Caveat;
@@ -142,7 +128,6 @@ footer > p > span {
 #content {
     background-image: url("background/background_image.6.jpg");
     padding-bottom: 100px;
-    margin: 0 auto;
 }
 
 #content > h3 {
