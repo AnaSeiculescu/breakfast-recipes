@@ -105,7 +105,7 @@ footer > p > span {
 #content > div {
     width: 350px;
     box-shadow: 3px 3px 6px grey;
-    background-color: rgba(214, 217, 208, 0.5);
+    background-color: rgba(236, 237, 232, 0.6);
 }
 
 #contact {
@@ -120,9 +120,6 @@ footer > p > span {
     height: 200px;
     margin: 50px auto;
 }
-
-
-
 
 
 @media (max-width: 1300px) {

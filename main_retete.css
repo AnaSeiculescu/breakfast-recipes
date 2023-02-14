@@ -51,7 +51,6 @@ footer > p > span {
 }
 
 img {
-/*    float: right;*/
     margin: 0 auto;
     box-shadow: 3px 3px 5px grey;
 }
@@ -60,7 +59,7 @@ img {
     padding: 30px 30px;
     margin-top: 40px;
     box-shadow: 5px 5px 7px grey;
-    background-color: rgba(214, 217, 208, 0.7);
+    background-color: rgba(236, 237, 232, 0.6);
 }
 
 .text_reteta > div {
@@ -71,7 +70,6 @@ img {
     width: 50%;
     padding: 25px;
     margin-right: 80px;
-/*    background-color: white;*/
 }
 
 .text_reteta > div:last-child {
@@ -124,7 +122,7 @@ img {
 }
 
 #content {
-    background-image: url("background/background_image.8.jpg");
+    background-image: url("background/background_image.9.jpg");
     padding: 80px 0 100px 120px;
     background-position: center;
 }
@@ -136,8 +134,6 @@ img {
 #text_content > div {
     padding: 80px 20px 20px 20px;
 }
-
-
 
 
 
