@@ -27,7 +27,7 @@ h3 {
     font-family: Andika;
     text-shadow: 2px 2px 4px grey;
     margin-top: 5px;
-    margin-bottom: 140px;
+    margin-bottom: 160px;
     text-align: center;
 }
 
@@ -132,7 +132,6 @@ footer > p > span {
     background-image: url("background/background_image.11.jpg");
     padding-bottom: 20px;
 }
-
 
 @media (max-width: 1300px) {
     

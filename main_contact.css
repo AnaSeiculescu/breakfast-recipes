@@ -31,6 +31,15 @@ h2 {
     text-shadow: 2px 2px 5px grey;
 }
 
+textarea {
+    width: 200px;
+    height: 100px;
+}
+
+input {
+    font-family: Andika;
+}
+
 footer {
     background-color: rgb(0, 0, 0);
     text-align: center;
@@ -52,6 +61,11 @@ footer > p > span {
     font-weight: 400;
     font-size: 20px;
     padding-right: 20px;
+}
+
+input[type*='submit'] {
+    padding: 2px 4px;
+    margin-top: 5px;
 }
 
 #menu {
@@ -100,6 +114,7 @@ footer > p > span {
 
 #content {
     text-align: center;
+    padding-bottom: 40px;
 }
 
 #content > div {
@@ -109,7 +124,7 @@ footer > p > span {
 }
 
 #contact {
-    height: 350px;
+    height: 380px;
     margin: 30px auto;
     padding: 20px;
 }
